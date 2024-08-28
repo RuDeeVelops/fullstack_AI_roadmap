@@ -20,6 +20,7 @@
 
 ## 3. ⚛️ React Mastery
 - React 18+ core concepts and hooks
+- Design Patterns (industry standards and best practices)
 - Advanced hooks (useCallback, useMemo, useRef, useTransition, useDeferredValue)
 - React Server Components
 - Performance optimization techniques
