@@ -10,6 +10,7 @@
 - HTML5, CSS3, and JavaScript ES6+
 - Web accessibility and responsive design
 - Version control with Git
+- Core programming concepts, data structures, algorithms, and software design principles
 - SOLID principles and clean code in JavaScript and TypeScript
 
 ## 2. 🌟 Modern JavaScript and TypeScript
