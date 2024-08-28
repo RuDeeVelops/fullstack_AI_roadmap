@@ -12,6 +12,7 @@
 - Version control with Git
 - Core programming concepts, data structures, algorithms, and software design principles
 - SOLID principles and clean code in JavaScript and TypeScript
+- Practice EXPLAINING and describing code snippets at a higher level ("This function does...")
 
 ## 2. 🌟 Modern JavaScript and TypeScript
 - ES2022+ features and proposals
